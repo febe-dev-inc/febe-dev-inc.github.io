@@ -9,5 +9,7 @@ febe-framework-list {
 
 febe-framework-item {
   display: flex;
-  flex-direction: colurmn:
+    flex-direction: column;
+    height: 200px;
+    justify-content: center;
 }
