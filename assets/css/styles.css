@@ -17,5 +17,7 @@ febe-framework-item {
 }
 
 febe-framework-item > img {
-  max-width: 150px;  
+  max-width: 150px;
+  margin-bottom: auto;
+  margin-top: auto;
 }
