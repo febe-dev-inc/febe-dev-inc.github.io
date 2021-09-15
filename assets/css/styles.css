@@ -12,7 +12,6 @@ febe-framework-item {
   flex-direction: column;
   height: 200px;
   width: 200px;
-  justify-content: center;
   align-items: center;
 }
 
