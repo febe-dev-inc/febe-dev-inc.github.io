@@ -15,3 +15,7 @@ febe-framework-item {
   justify-content: center;
   align-items: center;
 }
+
+febe-framework-item > img {
+  max-width: 150px;  
+}
