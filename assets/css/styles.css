@@ -1,5 +1,12 @@
-main {
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
+footer {
+  margin: 40px 0 40px 0;
 }
 
 febe-framework-list {
